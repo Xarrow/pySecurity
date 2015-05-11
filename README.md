@@ -11,6 +11,8 @@
 >>>
 ```
 
+**因为最近事情较多,先暂停更新一段时间7月份继续更新.谢谢**
+
 这是一套python系列教程，学习本套教程不需要你有任何编程背景。教程由最简单的hello world到信息安全应用实例。逐个难点击破:
 
 0x0 – [入门](https://github.com/smartFlash/pySecurity/blob/master/zh-cn/0x0.md)
